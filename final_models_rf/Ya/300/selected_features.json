@@ -1,0 +1,13 @@
+{
+  "variant": "300",
+  "features": [
+    "Shannon_Entropy_x",
+    "HR_z",
+    "MM_opening_z_s6_300",
+    "Spectral_Energy_x",
+    "MM_opening_x_s2_300",
+    "IMF_Mean_z_300",
+    "MM_opening_z_s4_300",
+    "RMS_x"
+  ]
+}

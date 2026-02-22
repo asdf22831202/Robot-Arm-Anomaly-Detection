@@ -1,0 +1,19 @@
+{
+  "variant": "95",
+  "features": [
+    "Hjorth_Mobility_y",
+    "Mean_z",
+    "Hjorth_Complexity_y",
+    "Shape_Factor_z",
+    "Wavelet_D3_Kurtosis_y",
+    "Entropy_z",
+    "Hjorth_Complexity_x",
+    "IMF_Var_x_95",
+    "Skewness_y",
+    "ApEn_y",
+    "CrestFactor_y",
+    "Kurtosis_y",
+    "Spectral_Entropy_z",
+    "HR_y"
+  ]
+}

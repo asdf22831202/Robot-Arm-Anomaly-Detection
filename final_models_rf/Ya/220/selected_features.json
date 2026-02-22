@@ -1,0 +1,13 @@
+{
+  "variant": "220",
+  "features": [
+    "Hjorth_Mobility_z",
+    "Hjorth_Complexity_y",
+    "Freq_Center_x",
+    "MM_closing_z_s7_220",
+    "MM_dilation_x_s2_220",
+    "HR_y",
+    "Hjorth_Activity_x",
+    "IMF_Mean_z_220"
+  ]
+}

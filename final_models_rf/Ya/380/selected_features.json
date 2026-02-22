@@ -1,0 +1,11 @@
+{
+  "variant": "380",
+  "features": [
+    "HR_z",
+    "Hjorth_Complexity_z",
+    "MM_opening_z_s1_380",
+    "CrestFactor_z",
+    "Spectral_Entropy_y",
+    "MM_erosion_z_s4_380"
+  ]
+}

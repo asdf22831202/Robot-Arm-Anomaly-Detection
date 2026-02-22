@@ -1,0 +1,14 @@
+{
+  "variant": "mean",
+  "features": [
+    "HL_z",
+    "Hjorth_Activity_z",
+    "Var_x",
+    "Margin_Factor_z",
+    "MM_erosion_x_s1_mean",
+    "MM_erosion_x_s3_mean",
+    "Impulse_Factor_z",
+    "MM_opening_x_s3_mean",
+    "Std_z"
+  ]
+}

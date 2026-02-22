@@ -1,0 +1,14 @@
+{
+  "variant": "65",
+  "features": [
+    "IMF_Var_z_65",
+    "Shape_Factor_z",
+    "HL_z",
+    "HL_x",
+    "Shape_Factor_x",
+    "Entropy_z",
+    "MM_dilation_z_s4_65",
+    "Kurtosis_z",
+    "MM_dilation_x_s2_65"
+  ]
+}

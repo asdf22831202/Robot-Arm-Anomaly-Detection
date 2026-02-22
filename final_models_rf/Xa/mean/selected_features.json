@@ -1,0 +1,32 @@
+{
+  "variant": "mean",
+  "features": [
+    "Mean_z",
+    "Shape_Factor_z",
+    "HL_z",
+    "HR_z",
+    "Shannon_Entropy_z",
+    "Margin_Factor_z",
+    "Impulse_Factor_z",
+    "IMF_Var_z_mean",
+    "HU_z",
+    "Hjorth_Complexity_z",
+    "Var_x",
+    "Hjorth_Activity_x",
+    "Hjorth_Mobility_y",
+    "HR_x",
+    "Hjorth_Complexity_y",
+    "MM_opening_x_s1_mean",
+    "Skewness_y",
+    "MM_dilation_x_s1_mean",
+    "ApEn_y",
+    "MM_closing_x_s1_mean",
+    "Wavelet_D3_Kurtosis_y",
+    "MM_erosion_x_s1_mean",
+    "Kurtosis_z",
+    "Std_x",
+    "Spectral_Entropy_y",
+    "Shannon_Entropy_x",
+    "CrestFactor_y"
+  ]
+}
