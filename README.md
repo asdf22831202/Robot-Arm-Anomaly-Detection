@@ -21,11 +21,11 @@
 
 - 使用 Welch 方法計算 PSD / CSD
 - 建立 3×3 類共變異矩陣頻域張量
-  \begin{bmatrix}
-  P_{xx} & P_{xy} & P_{xz}\\
-  P_{yx} & P_{yy} & P_{yz}\\
-  P_{zx} & P_{zy} & P_{zz}
-  \end{bmatrix}
+\begin{bmatrix}
+P_{xx} & P_{xy} & P_{xz}\\
+P_{yx} & P_{yy} & P_{yz}\\
+P_{zx} & P_{zy} & P_{zz}
+\end{bmatrix}
 - 進行離散型（分類）與連續型（迴歸）建模
 - 使用 Stratified 5-fold 驗證穩定性
 
